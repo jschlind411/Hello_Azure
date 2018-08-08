@@ -11,7 +11,7 @@ namespace Hello_Azure.Pages
     {
         public void OnGet()
         {
-
+            //testing
         }
     }
 }
